@@ -2,9 +2,9 @@
 
 登录页面
 
-![image-20220314193204563](C:\Users\GengLinhui\AppData\Roaming\Typora\typora-user-images\image-20220314193204563.png)
+<img src="C:\Users\GengLinhui\AppData\Roaming\Typora\typora-user-images\image-20220314194516029.png" alt="登录页面" style="zoom:50%;" />
 
-主页：![image-20220314193306236](C:\Users\GengLinhui\AppData\Roaming\Typora\typora-user-images\image-20220314193306236.png)
+<img src="C:\Users\GengLinhui\AppData\Roaming\Typora\typora-user-images\image-20220314194612840.png" alt="主页面 " style="zoom:50%;" />
 
 帖子与评论：
 
